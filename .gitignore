@@ -3,3 +3,6 @@ __pycache__/
 .ipynb_checkpoints/
 data/
 .env
+.claude/settings.local.json
+CLAUDE.md
+tutor.md
